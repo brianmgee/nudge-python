@@ -22,10 +22,10 @@
     "random_delay": false,
     "screenshot_path": "/Library/nudge/Resources/update_ss.png",
     "timer_day_1": 1,
-    "timer_day_3": 28800,
-    "timer_elapsed": 10,
-    "timer_final": 60,
-    "timer_initial": 28800,
+    "timer_day_3": 1,
+    "timer_elapsed": 1,
+    "timer_final": 6,
+    "timer_initial": 1,
     "update_minor": true,
     "update_minor_days": 7
 }
