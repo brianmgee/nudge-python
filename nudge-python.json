@@ -21,7 +21,7 @@
     "path_to_app": "/Applications/Install macOS Catalina.app",
     "random_delay": false,
     "screenshot_path": "/Library/nudge/Resources/update_ss.png",
-    "timer_day_1": 1,
+    "timer_day_1": 5,
     "timer_day_3": 1,
     "timer_elapsed": 1,
     "timer_final": 6,
