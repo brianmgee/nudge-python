@@ -23,7 +23,7 @@
     "screenshot_path": "/Library/nudge/Resources/update_ss.png",
     "timer_day_1": 5,
     "timer_day_3": 5,
-    "timer_elapsed": 1,
+    "timer_elapsed": 5,
     "timer_final": 6,
     "timer_initial": 1,
     "update_minor": true,
