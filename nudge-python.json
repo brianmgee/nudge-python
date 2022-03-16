@@ -1,7 +1,7 @@
  {
     "button_title_text": "Ready to start the update?",
     "button_sub_titletext": "Click on the button below.",
-    "cut_off_date": "2022-3-30-00:00",
+    "cut_off_date": "2022-3-14-00:00",
     "cut_off_date_warning": 14,
     "days_between_notifications": 0,
     "dismissal_count_threshold": 10,
@@ -23,7 +23,7 @@
     "screenshot_path": "/Library/nudge/Resources/update_ss.png",
     "timer_day_1": 5,
     "timer_day_3": 5,
-    "timer_elapsed": 5,
+    "timer_elapsed": 28800,
     "timer_final": 6,
     "timer_initial": 1,
     "update_minor": true,
